@@ -40,7 +40,7 @@ function setup() {
     playButton.size(300, 140);
     playButton.hide();
 
-    aboutButton = createImg("assets/About_button.png");
+    aboutButton = createImg("assets/about_button.png");
     aboutButton.position(175, 470);
     aboutButton.size(300, 145);
     aboutButton.hide();
